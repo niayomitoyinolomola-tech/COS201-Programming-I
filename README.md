@@ -1,10 +1,10 @@
-# COS201-Programming-I
+# COS201-Programming-I 
 
 ## Week 2: Development Environment and First Java Program
 
 ### Student Information
-- Name: sanni ayomide uthman
-- Matriculation 25/18053
+- Name: Toyin-Olomola Niayomi David
+- Matriculation 25/16441
 - Programme: Computer Science
 - Course: COS 201
 - Week: 2
